@@ -1,7 +1,7 @@
 # Hemanath.exe has successfully launched 👋
 
 ```text
-> whoami
+> who-am-i
 Undergraduate Engineering Student & Developer
 
 > query --skills
