@@ -8,7 +8,7 @@ love solving real-world problems.
 Building a decentralized Escrow system for secure freelance payments 💻
 
 >>> query --currently-learning
-[Machine Learning (ML)]: 🤖,DSA 🧩 and Quantum Computing ⚛️
+𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 (𝗠𝗟) 🤖,DSA 🧩 and Quantum Computing ⚛️
 
 >>> query --ask-me-about
 Competitive Programming 🏆, Machine Learning 🤖, Quantum Computing ⚛️ and
