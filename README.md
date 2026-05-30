@@ -1,5 +1,5 @@
 # Hemanath.exe has successfully launched 👋
-```yaml
+```bash
 >>> who-am-i
 I am a Computer Science student and Software Developer. I am passionate about crafting efficient solutions and
 love solving real-world problems.
@@ -20,4 +20,4 @@ through my camera lens 📸
 ```
 
 # Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C/C++](https://img.shields.io/badge/-C/C++-lightpink?style=for-the-badge&logo=c&logoColor=black)  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5 & CSS3](./html-css.svg)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C/C++](https://img.shields.io/badge/-C/C++-blue?style=for-the-badge&logo=c&logoColor=black)  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5 & CSS3]([./html-css.svg](https://img.shields.io/badge/HTML/CSS-CB3837?style=for-the-badge))
