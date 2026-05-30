@@ -1,8 +1,6 @@
 # 💫 About Me:
-Hemanath.exe has successfully launched 👋
+# Hemanath.exe has successfully launched 👋
 ```text
-Hemanath.exe has successfully launched 👋
-
 > who-am-i
 I am a Computer Science student and Software Developer. I am passionate about crafting efficient solutions and love solving real-world problems.
 
