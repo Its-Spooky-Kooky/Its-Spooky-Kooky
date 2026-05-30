@@ -1,23 +1,23 @@
 # Hemanath.exe has successfully launched 👋
-```diff
-+ >>> who-am-i
+```yaml
+>>> who-am-i
 I am a Computer Science student and Software Developer. I am passionate about crafting efficient solutions and
 love solving real-world problems.
 
-+ >>> query --currently-working-on
+>>> query --currently-working-on
 Building a decentralized Escrow system for secure freelance payments 💻
 
-+ >>> query --currently-learning
+>>> query --currently-learning
 DSA 🧩, ** Machine Learning (ML) 🤖 **, and Quantum Computing ⚛️
 
-+ >>> query --ask-me-about
+>>> query --ask-me-about
 Competitive Programming 🏆, Machine Learning 🤖, Quantum Computing ⚛️, and
 Computer Organization (RISC-V, ISA, Pipelining) 🖥️
 
-+ >>> query --hobbies
+>>> query --hobbies
 When my IDE is finally closed and I'm taking a break from debugging algorithms, I'm usually out capturing moments
 through my camera lens 📸
 ```
 
 # Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5 & CSS3](./html-css.svg)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C/C++](https://img.shields.io/badge/-C/C++-lightpink?style=for-the-badge&logo=c&logoColor=black)  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5 & CSS3](./html-css.svg)
